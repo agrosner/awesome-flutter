@@ -123,6 +123,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### UI
 
+- [Platty](https://github.com/fuzz-productions/platty) [14⭐] - Platform-adapting flutter widgets by [Andrew Grosner](https://github.com/agrosner)
 - [Contact Picker](https://github.com/goderbauer/contact_picker) [22⭐] - Picking contact from the address book by [Michael Goderbauer](https://github.com/goderbauer).
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [377⭐] - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar).
 - [Sticky Header](https://github.com/letsar/flutter_sticky_header) [150⭐] - Sliver based sticky headers by [Romain Rastel](https://github.com/letsar).
